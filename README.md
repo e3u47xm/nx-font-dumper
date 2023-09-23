@@ -1,3 +1,3 @@
-# nx-ttf-dumper
+# nx-font-dumper
 
-Dump Nintendo Switch shared fonts, the right way.
+Dump Nintendo Switch shared fonts (.bin)
